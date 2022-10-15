@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <!-- NÃO ALTERE O BLOCO ABAIXO -->
 <!-- ALERTA:  Qualquer conteúdo dentro desse bloco sera removido, não adicione conteúdo próprio -->
-<div id="d23d98e0ff246ea5762643c3fbcf469d">
+<div id="991d08b8cef51a0281941301f981af1c">
     <table border="1px" width="300px" align="center">
         <thead align="center">
             <tr>
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
             <tr>
                 <td><img src="badges/380259620692.png" width="120px" alt="Desenvolvimento Seguro"></td>
                 <td></td>
-                <td></td>
+                <td><img src="badges/380259620669.png" width="120px" alt="Regulatórios"></td>
                 <td></td>
                 <td></td>
             </tr>
