@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <!-- NÃO ALTERE O BLOCO ABAIXO -->
 <!-- ALERTA:  Qualquer conteúdo dentro desse bloco sera removido, não adicione conteúdo próprio -->
-<div id="95c79e0aed34b6ff59c8c33d2b46859b">
+<div id="d3084ba3bd041fc4224183f6d1378785">
     <table border="1px" width="300px" align="center">
         <thead align="center">
             <tr>
@@ -33,7 +33,7 @@ Here are some ideas to get you started:
             </tr>
             <tr>
                 <td><img src="badges/380259620692.png" width="120px" alt="Desenvolvimento Seguro"></td>
-                <td></td>
+                <td><img src="badges/380259620714.png" width="120px" alt="SSDLC na prática"></td>
                 <td><img src="badges/380259620669.png" width="120px" alt="Regulatórios"></td>
                 <td><img src="badges/426780171280.png" width="120px" alt="Cloud Sec"></td>
                 <td></td>
